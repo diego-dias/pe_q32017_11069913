@@ -1,5 +1,7 @@
 testeeee
 
+para subir arquivo para github (git add até git push)
+
 git add nomeDoArquivo.c
 git config --global user.email "nataliasatie@hotmail.com"
 git commit -m "exercicio 01"
