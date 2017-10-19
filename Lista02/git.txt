@@ -8,3 +8,7 @@ git commit -m "exercicio 01"
 git push
 git pull
 
+
+compilar programa com biblioteca math.h
+gcc nome.c -o nome -lm
+./nome
