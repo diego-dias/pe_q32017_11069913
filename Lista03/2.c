@@ -36,4 +36,4 @@ int main(){
     converte(entrada, convertido);
     printf("%s\n",convertido);
     return 0;
-}
+} 
